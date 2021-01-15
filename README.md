@@ -1,5 +1,7 @@
 # React-Design-Pattern-Container_View-
 
+check it out `https://www.uxpin.com/studio/blog/react-design-patterns/`
+
 Container-View pattern is the most efficient and widely used feature building pattern in react environment.
 
 **Container Component**

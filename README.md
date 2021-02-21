@@ -1,3 +1,11 @@
+# Design Pattern
+
+**Our cookbook**
+
+1. Context API
+2. Presentation/Conrainer Components
+3. Render Props
+
 # React-Design-Pattern-Container_View-
 
 check it out `https://www.uxpin.com/studio/blog/react-design-patterns/`
